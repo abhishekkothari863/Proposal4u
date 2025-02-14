@@ -143,7 +143,7 @@ body {
   width: 80px;
   height: 80px;
   background: red;
-  transform: rotate(-45deg);
+  transform: rotate(0deg);
   box-shadow: -10px 10px 50px red;
   animation: anim 1s linear infinite;
 }
